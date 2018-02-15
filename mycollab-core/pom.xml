@@ -71,6 +71,12 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+            <groupId>com.diffblue</groupId>
+            <artifactId>deeptestutils</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
         <!--Business days calculation library-->
         <dependency>
             <groupId>net.objectlab.kit</groupId>
